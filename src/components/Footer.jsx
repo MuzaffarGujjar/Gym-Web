@@ -10,7 +10,9 @@ const Footer = () => {
                     <Link to='/'>
                         <h1 className='font-semibold text-2xl text-brightRed'>FitZone</h1>
                     </Link>
-                    <p className='mt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <p className='mt-4'>
+                        FitZone: Your ultimate destination for fitness, health, and well-being goals.
+                    </p>
                 </div>
 
                 <div>
